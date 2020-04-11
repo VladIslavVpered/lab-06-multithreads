@@ -1,7 +1,3 @@
-//
-// Created by LinkIvan333 on 30.01.2020.
-//
-
 #ifndef INCLUDE_LOGS_H_
 #define INCLUDE_LOGS_H_
 
